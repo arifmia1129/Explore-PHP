@@ -18,7 +18,14 @@ $profession = " Software Engineer";
 $name = "Md. Arif Mia";
 $balance =  10000;
 
-echo "Hello,".$name.", your balance is ".$balance;
-echo "\nHello, $name, your current account balance is: $balance";
+// echo "Hello,".$name.", your balance is ".$balance;
+// echo "\nHello, $name, your current account balance is: $balance";
 
+?>
+
+<?php 
+$first_name = "Arif";
+$name = "first_name";
+
+echo $$name;
 ?>
