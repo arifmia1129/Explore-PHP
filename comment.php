@@ -4,7 +4,7 @@
 // Price calculation code
 
 /*
-In this system we learn how to make comment in php. If you want to do single line comment we can use two methods. First is start your comment line with # and another is start your comment with //. If you want to do double line comment we can use / * write comment here * /
+In this system we learn how to make comment in php. If you want to do single line comment we can use two methods. First is start your comment line with # and another is start your comment with //. If you want to do multiple line comment we can use / * write comment here * /
 */
 
 $product_price = 100; //actual product price
